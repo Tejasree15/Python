@@ -1,3 +1,5 @@
+"""THIS IS THE SIMPLE EXAMPLE OF OVERRIDING METHODS IN PYTHON"""
+
 class Employee:
     def __init__(self,nm,sly):
         self.name=nm;
