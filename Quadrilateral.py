@@ -1,3 +1,4 @@
+#THIS IS A SIMPLE EXAMPLE OF INHERITANCE
 class Quadrilateral:
     def __init__(self,a,b,c,d):
         self.side1=a
